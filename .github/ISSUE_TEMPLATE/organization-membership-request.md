@@ -27,8 +27,8 @@ about: Request membership in Istio's GitHub organization.
 
 ### List of contributions to the Istio project
 - PRs reviewed
-- PRs merged
-- Issues responded to
+- PRs merged: 8947, 9059, 9090, 9226, 9328, 9559, 9740, 9786, 10154
+- Issues responded to: 8661, 9313, 9659
 - Workgroup(s) I am involved with
 
 ### Slack access
