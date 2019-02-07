@@ -4,17 +4,17 @@ about: Request membership in Istio's GitHub organization.
 ---
 
 ### GitHub user id
-- List your GitHub user id
+- c0d1ngm0nk3y
 
 ### Company affiliation
-- List your company name, or indicate Individual if you're not affiliated with a company
+- SAP
 
 ### Requirements
-- [ ] I have reviewed the [community membership guidelines](https://github.com/istio/community/blob/master/ROLES.md#member)
-- [ ] I have reviewed the [contribution guidelines](https://github.com/istio/community/blob/master/CONTRIBUTING.md)
-- [ ] I have enabled [2FA on my GitHub account](https://github.com/settings/security)
-- [ ] I have subscribed to [contributors](https://discuss.istio.io/c/contributors)
-- [ ] I have made multiple contributions to the project or community. Contributions may include, but are not limited to:
+- [X] I have reviewed the [community membership guidelines](https://github.com/istio/community/blob/master/ROLES.md#member)
+- [X] I have reviewed the [contribution guidelines](https://github.com/istio/community/blob/master/CONTRIBUTING.md)
+- [X] I have enabled [2FA on my GitHub account](https://github.com/settings/security)
+- [X] I have subscribed to [contributors](https://discuss.istio.io/c/contributors)
+- [X] I have made multiple contributions to the project or community. Contributions may include, but are not limited to:
     - Authoring or reviewing PRs on GitHub
     - Filing or commenting on issues on GitHub
     - Contributing to working group or community discussions
@@ -33,6 +33,7 @@ about: Request membership in Istio's GitHub organization.
 
 ### Slack access
 - If you'd like to join our developer Slack workspace, what is the email address you have associated with Slack?
+- ralf.pannemans@sap.com
 
 ### **NOTE TO SPONSORS**
 
